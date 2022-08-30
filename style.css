@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #333;
+}
+
+.container{
+    display: flex;
+    width: 85%;
+}
+
+.hero {
+    background-image: url(/images/masaaki-komori-octopus.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    width: 40vw;
+}
